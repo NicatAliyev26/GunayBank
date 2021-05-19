@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/GunayBank/static/css/main.cdb9316b.chunk.css",
-    "main.js": "/GunayBank/static/js/main.d7d31fb6.chunk.js",
-    "main.js.map": "/GunayBank/static/js/main.d7d31fb6.chunk.js.map",
+    "main.css": "/GunayBank/static/css/main.7a7f7242.chunk.css",
+    "main.js": "/GunayBank/static/js/main.2819cc58.chunk.js",
+    "main.js.map": "/GunayBank/static/js/main.2819cc58.chunk.js.map",
     "runtime-main.js": "/GunayBank/static/js/runtime-main.7b55cf5a.js",
     "runtime-main.js.map": "/GunayBank/static/js/runtime-main.7b55cf5a.js.map",
     "static/js/2.29dede30.chunk.js": "/GunayBank/static/js/2.29dede30.chunk.js",
     "static/js/2.29dede30.chunk.js.map": "/GunayBank/static/js/2.29dede30.chunk.js.map",
     "index.html": "/GunayBank/index.html",
-    "static/css/main.cdb9316b.chunk.css.map": "/GunayBank/static/css/main.cdb9316b.chunk.css.map",
+    "static/css/main.7a7f7242.chunk.css.map": "/GunayBank/static/css/main.7a7f7242.chunk.css.map",
     "static/js/2.29dede30.chunk.js.LICENSE.txt": "/GunayBank/static/js/2.29dede30.chunk.js.LICENSE.txt",
     "static/media/24087.5bd51bf8.jpg": "/GunayBank/static/media/24087.5bd51bf8.jpg",
     "static/media/kart-1.f7b06940.jpg": "/GunayBank/static/media/kart-1.f7b06940.jpg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.7b55cf5a.js",
     "static/js/2.29dede30.chunk.js",
-    "static/css/main.cdb9316b.chunk.css",
-    "static/js/main.d7d31fb6.chunk.js"
+    "static/css/main.7a7f7242.chunk.css",
+    "static/js/main.2819cc58.chunk.js"
   ]
 }
