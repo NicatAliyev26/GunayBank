@@ -11,7 +11,7 @@ import {SiConvertio} from 'react-icons/si'
 export class Valuyta extends Component {
     render() {
         return (
-            <div className="converter container">
+            <Paper className="converter container">
               <div className="main-box container">
                 <div className="prices">
                     <h4>Currency</h4>
@@ -44,7 +44,7 @@ export class Valuyta extends Component {
                  <Calculator/>
                  
               </div>
-            </div>
+            </Paper>
         )
     }
 }
@@ -80,7 +80,7 @@ const Calculator = () => {
 
     return(
         <div className="converter-box">
-            <Paper className="paper container">
+            <div className="paper container">
             <form onSubmit={convert}>  
              <h4>Currency Converter</h4>
                 <div>
@@ -103,7 +103,7 @@ const Calculator = () => {
                 </form>  
 
                 <a href="#">Details</a>
-            </Paper>
+            </div>
         </div>
     );
 };
