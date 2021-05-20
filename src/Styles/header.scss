@@ -221,8 +221,6 @@
         flex-direction: row-reverse;
         justify-content: space-around;
         align-items: center;
-        position: relative;
-        top: 9px;
 
 
 
@@ -251,36 +249,20 @@
             margin-left: 40px;
 
             .navbar-nav {
+                width: 97%;
                 li {
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    padding-left: 10px;
+                    padding-left: 5px;
 
-                    .first {
+                    .nav-item {
                         width: 70%;
                         padding-left: 6px;
                         padding-bottom: 30px;
                         display: flex;
                         justify-content: center;
                         color: #A5A5A5;
-
-                        &:focus {
-                            border-bottom: 3.5px solid #F6CD4C;
-
-                        }
-                    }
-
-                    .others {
-                        width: 100%;
-                        padding-left: 6px;
-                        display: flex;
-                        justify-content: center;
-                        color: #A5A5A5;
-                        padding-bottom: 30px;
-                        &:focus {
-                            border-bottom: 3.5px solid #F6CD4C;
-                        }
                     }
 
                 }

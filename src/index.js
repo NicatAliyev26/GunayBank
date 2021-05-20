@@ -11,7 +11,7 @@ import Footer from './Components/Footer'
 
 const root = document.getElementById('root')
 
-export class App extends Component {
+export class Index extends Component {
     render() {
         return (
             <div>
@@ -26,7 +26,7 @@ export class App extends Component {
     }
 }
 
-export default App
+export default Index
 
 
-ReactDOM.render(<App/>,root)
+ReactDOM.render(<Index/>,root)
