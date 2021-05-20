@@ -9,6 +9,7 @@ import Footer from './Components/Footer'
 
 
 
+
 const root = document.getElementById('root')
 
 export class Index extends Component {
