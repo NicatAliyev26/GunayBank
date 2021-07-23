@@ -1,0 +1,87 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .slider{
+        width: 100%;
+        height: 460px;
+
+        img{
+            width: 375px;
+            height: 358px;
+        }
+        .carousel-control-prev{
+            display: none;
+        }
+    
+        .carousel-control-next{
+            display: none;
+        }
+    
+        .text{
+            font-size: 17px;
+            font-weight: 500;
+            font-family: 'Prompt', sans-serif;
+        }
+    }
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .slider{
+        width: 100%;
+        height: 460px;
+
+        img{
+            width: 375px;
+            height: 358px;
+        }
+        .carousel-control-prev{
+            display: none;
+        }
+    
+        .carousel-control-next{
+            display: none;
+        }
+    
+        .text{
+            font-size: 17px;
+            font-weight: 500;
+            font-family: 'Prompt', sans-serif;
+        }
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .slider{
+        width: 100%;
+        height: 600px;
+
+        img{
+            width: 375px;
+            height: 521px;
+        }
+        .carousel-control-prev{
+            display: flex;
+        }
+    
+        .carousel-control-next{
+            display: flex;
+        }
+    
+        .text{
+            font-size: 17px;
+            font-weight: 500;
+            font-family: 'Prompt', sans-serif;
+            p{
+                display: none;
+            }
+        }
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
